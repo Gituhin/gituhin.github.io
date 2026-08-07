@@ -1,19 +1,19 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-07'
 papers:
   g2WGmFoAAAAJ:9yKSN-GCB0IC:
     citations: 5
     title: A non-linear Lasso and explainable LSTM approach for estimating tail risk interconnectedness
     year: '2025'
   g2WGmFoAAAAJ:d1gkVwhDpl0C:
-    citations: 11
+    citations: 9
     title: A machine learning and empirical Bayesian approach for predictive buying in B2B e-commerce
     year: '2024'
   g2WGmFoAAAAJ:qjMakFHDy7sC:
-    citations: 1
+    citations: 2
     title: Improving Conditional VAE with approximation using Normalizing Flows
     year: '2025'
   g2WGmFoAAAAJ:u5HHmVD_uO8C:
-    citations: 4
-    title: Prediction of Turn Around Time using Neural Networks-A Case Study of Shipping Ports
+    citations: 5
+    title: Prediction of turn around time using neural networks-A case study of shipping ports
     year: '2022'
